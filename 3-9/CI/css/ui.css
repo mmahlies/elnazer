@@ -1,0 +1,51 @@
+p{
+  color: green;
+background-color: #cecece;
+padding: 6px 6px 6px 6px;	
+width: 500px
+
+}
+
+img{
+z-index: -10;
+width: 100px;
+height:100px;	
+}
+
+#usrL{
+ 	width: 5%;
+ 	color: green;
+	background-color: red;
+ 	
+}
+#usr{
+	color: blue;
+	text-align: center
+}
+ 
+.mono{
+	 color:green;
+}
+body{
+	border-color:red;
+	border:1px solid #cecece;
+	
+}
+#list{
+	border: 1px solid #cecece;
+	width: 3%;
+	padding: 10px 7px 10px 25px;
+	margin:2px 2px 2px 2px;
+}
+#list2{
+	border: 1px solid #cecece;
+	width: 100%;
+	height:1%;
+	list-style: disc;
+	color: blue;
+}
+li{
+	
+	float: left;
+	padding: 15px 15px 15px 15px;
+}
